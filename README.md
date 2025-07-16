@@ -2,9 +2,6 @@ README.txt
 
 # RFID-Based Parking System using Arduino
 
-
----.
-
 ## Features
 
 * Register up to *10 RFID cards*
