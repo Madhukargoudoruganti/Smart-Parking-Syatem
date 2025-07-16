@@ -1,5 +1,3 @@
-README.txt
-
 # RFID-Based Parking System using Arduino
 
 ## Features
