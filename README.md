@@ -5,7 +5,7 @@ README.txt
 
 ---.
 
-## ??? Features
+## Features
 
 * Register up to *10 RFID cards*
 * Toggle between *registration* and *operation* modes using buttons
@@ -15,7 +15,7 @@ README.txt
 
 ---
 
-## ????? Hardware Specifications
+## Hardware Specifications
 
 * Arduino (i.e., Mega, Uno)
 * MFRC522 RFID reader
@@ -37,7 +37,7 @@ README.txt
 
 ---
 
-## ??? How It Works
+## How It Works
 
 1. *Startup:*
 
@@ -61,7 +61,7 @@ README.txt
 
 ---
 
-## ???? Fee Calculation
+## Fee Calculation
 
 * ₹10 per minute
 
@@ -69,7 +69,7 @@ README.txt
 
 ---
 
-## ?????? How to Use
+## How to Use
 
 1. Open the Arduino IDE.
 
@@ -81,11 +81,11 @@ README.txt
 
 5. Use the buttons and RFID cards as outlined above.
 
---- ## ????? File Description * main.ino — Main logic for registration, entry/exiting logging, and fee calculation. --- ## ???? Notes * This uses *volatile memory*—data is lost on reset/power off. * You can add the use of *EEPROM* or *SD card* for permanent storage. --- ## ???? License This is an open-source and free project to use for educational and personal use.
+--- ## File Description * main.ino — Main logic for registration, entry/exiting logging, and fee calculation. --- ## ???? Notes * This uses *volatile memory*—data is lost on reset/power off. * You can add the use of *EEPROM* or *SD card* for permanent storage. --- ## ???? License This is an open-source and free project to use for educational and personal use.
 
 ---.
 
-## ??? Features
+## Features
 
 * Register up to *10 RFID cards*
 * Toggle between *registration* and *operation* modes using buttons
@@ -95,7 +95,7 @@ README.txt
 
 ---
 
-## ????? Hardware Specifications
+## Hardware Specifications
 
 * Arduino (i.e., Mega, Uno)
 * MFRC522 RFID reader
@@ -117,7 +117,7 @@ README.txt
 
 ---
 
-## ??? How It Works
+## How It Works
 
 1. *Startup:*
 
@@ -141,7 +141,7 @@ README.txt
 
 ---
 
-## ???? Fee Calculation
+## Fee Calculation
 
 * ₹10 per minute
 
@@ -149,7 +149,7 @@ README.txt
 
 ---
 
-## ?????? How to Use
+## How to Use
 
 1. Open the Arduino IDE.
 
@@ -161,4 +161,4 @@ README.txt
 
 5. Use the buttons and RFID cards as outlined above.
 
---- ## ????? File Description * main.ino — Main logic for registration, entry/exiting logging, and fee calculation. --- ## ???? Notes * This uses *volatile memory*—data is lost on reset/power off. * You can add the use of *EEPROM* or *SD card* for permanent storage. --- ## ???? License This is an open-source and free project to use for educational and personal use.
+--- ## File Description * main.ino — Main logic for registration, entry/exiting logging, and fee calculation. --- ##  Notes * This uses *volatile memory*—data is lost on reset/power off. * You can add the use of *EEPROM* or *SD card* for permanent storage. --- ##  License This is an open-source and free project to use for educational and personal use.
